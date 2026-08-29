@@ -1,6 +1,6 @@
 # 05 · Azure, Microsoft 365 and Cloud Security
 
-**10 questions · Q48–Q57 · 5 scenario-based**
+**10 questions · Q48–Q57 · 6 scenario-based**
 
 [⬅ Previous: Network Security](04-network-security-and-traffic-analysis.md) · [Back to README](../README.md) · [Next: EDR & Malware ➡](06-edr-malware-and-endpoint-security.md)
 
